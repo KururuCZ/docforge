@@ -1,0 +1,35 @@
+--- Page 1 ---
+
+                                                                               **INVOICE**
+
+
+                                                                                **INVOICE #** INV-1042
+                                                                                  **Date:** 2026-10-20
+                                                                                   **Due:** 2026-11-03
+
+
+**From                                            Bill to**
+Northwind Studio                                Acme Retail Ltd
+12 Harbour Street                               88 King Road
+Portland, ME 04101                              Boston, MA 02110
+billing@northwind.example
+
+
+ **Description                                            Qty          Unit price          Amount**
+
+ Product photography (half day)                           1            $450.00           $450.00
+
+ Retouched images                                        24             $12.50           $300.00
+
+ Rush delivery                                            1             $75.00            $75.00
+
+                                                                      Subtotal           $825.00
+
+                                                                Sales tax (5.5%)          $45.38
+
+                                                                     **Total due           $870.38**
+
+
+ **Payment terms:** Due within 14 days by bank transfer
+
+ Northwind Studio · Thank you for your business.

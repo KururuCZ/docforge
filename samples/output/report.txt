@@ -1,0 +1,17 @@
+--- Page 1 ---
+
+**Quarterly Field Report**
+Sales improved in **two of three regions**, while costs stayed *broadly flat*. The South region
+needs ***urgent review*** before the board meeting.
+
+           **Region                     Q1          Q2      Change**
+           North                    1,204       1,388     +15.3%
+           South                     980         912        -6.9%
+           West                     2,115       2,240      +5.9%
+
+Note: figures are *unaudited* and shown in thousands.
+
+--- Page 2 ---
+
+**Appendix A — Method**
+Data was collected from **store systems** on the last business day of each quarter.

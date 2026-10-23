@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_number": "INV-1044",
+    "date": "2026-10-22",
+    "due_date": "2026-11-05",
+    "customer": "Harbor Books",
+    "customer_address": "41 Water St\nNewport, RI 02840",
+    "items": [
+      {
+        "description": "Logo refresh",
+        "qty": 1,
+        "unit_price": 600
+      },
+      {
+        "description": "Business cards (box of 250)",
+        "qty": 2,
+        "unit_price": 38.4
+      }
+    ]
+  }
+]

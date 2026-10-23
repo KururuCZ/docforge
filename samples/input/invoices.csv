@@ -1,0 +1,9 @@
+invoice_number,date,due_date,customer,customer_address,description,qty,unit_price,paid_date,payment_method
+INV-1042,2026-10-20,2026-11-03,Acme Retail Ltd,"88 King Road
+Boston, MA 02110",Product photography (half day),1,450,2026-10-25,Bank transfer
+INV-1042,2026-10-20,2026-11-03,Acme Retail Ltd,"88 King Road
+Boston, MA 02110",Retouched images,24,12.50,2026-10-25,Bank transfer
+INV-1042,2026-10-20,2026-11-03,Acme Retail Ltd,"88 King Road
+Boston, MA 02110",Rush delivery,1,75,2026-10-25,Bank transfer
+INV-1043,2026-10-21,2026-11-04,Blue Fern Cafe,"3 Elm Lane
+Salem, MA 01970",Menu design,1,320,,

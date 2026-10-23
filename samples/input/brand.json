@@ -1,0 +1,13 @@
+{
+  "name": "Northwind Studio",
+  "address": "12 Harbour Street\nPortland, ME 04101",
+  "email": "billing@northwind.example",
+  "logo": "logo.png",
+  "color": "#1f4e79",
+  "currency": "$",
+  "tax_label": "Sales tax",
+  "tax_rate": 5.5,
+  "page": "Letter",
+  "payment_terms": "Due within 14 days by bank transfer",
+  "footer": "Northwind Studio \u00b7 Thank you for your business."
+}
